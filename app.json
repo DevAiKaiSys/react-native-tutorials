@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "015de739-ebc2-4947-9a1e-90caba56ddaa"
+      }
+    },
+    "owner": "aikaisys"
   }
 }
